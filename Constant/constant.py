@@ -1,0 +1,12 @@
+CONFIG_FILE_PATH = "/home/kunal/naukriScrapping/Config/config.json"
+CONFIG = "Config"
+PUSH_DATA = "pushData"
+UPLOAD_FILE = "uploadfile"
+CLICK = "click"
+OPERATION="operation"
+DATA="data"
+TASK="task"
+URL="url"
+PAGES="pages"
+XPATH="xpath"
+NEXT_SCRAPPING_WAIT_TIME=900
